@@ -20,8 +20,8 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://i.imgur.com/VyjCJuz.png" align="left" alt="git" height='42px'/>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/langfr-800px-Jenkins_logo.svg.png" align="left" alt="git" height='42px'/>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" align="left" alt="git" height='42px'/>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="	https://upload.wikimedia.org/wikipedia/commons/thu…wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" align="left" alt="git" height='42px'/>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="	https://upload.wikimedia.org/wikipedia/commons/thu…_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" align="left" alt="git" height='42px'/>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" align="left" alt="git" height='42px'/>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" align="left" alt="git" height='42px'/>
 
 <br>
 <br>
