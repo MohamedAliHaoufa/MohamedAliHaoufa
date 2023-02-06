@@ -34,8 +34,8 @@
 
 <div>
   <a href="https://github.com/MohamedAliHaoufa">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MohamedAliHaoufa&show_icons=true&theme=dark"/>
-  <img height="180em" width="355em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAliHaoufa&layout=compact&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/?username=MohamedAliHaoufa&show_icons=true&theme=dark"/>
+  <img height="180em" width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliHaoufa&layout=compact&theme=dark"/>
 </div>
 
 <!--
