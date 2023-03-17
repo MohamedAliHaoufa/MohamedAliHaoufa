@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAliHaoufa&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAliHaoufa" /> </p>
+
 ### 🧐 More About Me:
 
 - 🔭 [Ex-Embedded Software Engineer intern at  Siemens EDA (Siemens Digital Industries Software)]
@@ -42,7 +44,6 @@
 
 </div>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohamedAliHaoufa" alt="MohamedAliHaoufa" /></a> </p>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAliHaoufa&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAliHaoufa" /> </p>
 
 <!--
 **MohamedAliHaoufa/MohamedAliHaoufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
