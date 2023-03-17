@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAliHaoufa&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAliHaoufa" /> </p>
-
 ### 🧐 More About Me:
 
 - 🔭 [Ex-Embedded Software Engineer intern at  Siemens EDA (Siemens Digital Industries Software)]
