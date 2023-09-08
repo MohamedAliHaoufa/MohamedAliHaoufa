@@ -9,7 +9,7 @@
 
 ### 💻 What I am currently working on
 -  [Smart-Car-Parking-Management-System-with-STM32F401VE](https://github.com/MohamedAliHaoufa/Smart-Car-Parking-Management-System-with-STM32F401VE) (In Progress...)
--  [RTOS-Powered-Smart-Home-Automation-Project-with-STM32F401VE](https://github.com/MohamedAliHaoufa/RTOS-Powered-Smart-Home-Automation-System-with-STM32F401VE) (In Progress...)
+-  [RTOS-Powered-Smart-Home-Automation-System-with-STM32F401VE](https://github.com/MohamedAliHaoufa/RTOS-Powered-Smart-Home-Automation-System-with-STM32F401VE) (In Progress...)
 -  [Embedded System for Chronic Disease Patient Monitoring using IoT](https://github.com/MohamedAliHaoufa/Embedded-System-for-Chronic-Disease-Patient-Monitoring-using-IoT)
 -  [AUTOMATIC Wireless Mini Weather Station](https://github.com/MohamedAliHaoufa/AUTOMATIC-Wireless-Mini-Weather-Station)
 -  [Automatic Railway Gate](https://github.com/MohamedAliHaoufa/Automatic-Railway-Gate)
