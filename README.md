@@ -3,7 +3,7 @@
 
 - 🔭 [Embedded Software Engineer/Developer]
 - 🔭 [Ex-Embedded Software Engineer intern at  Siemens EDA (Siemens Digital Industries Software)]
-- 🌱 I’m currently and constantly learning : AUTOSAR, ADAS, ASPICE, BSW, Agile, Jenkins, Gitlab, IoT, ESP32, STM32, Zephyr RTOS, FreeRTOS, Embedded Linux, Modern C++, and C .
+- 🌱 I’m currently and constantly learning : AUTOSAR, ADAS, ASPICE, BSW, Agile, Jenkins, Gitlab, IoT, ESP32, STM32, Zephyr RTOS, FreeRTOS, Embedded Linux, Design Patterns, Modern C++, and C .
 - 📫 E-mail: mohamedali.haoufa@gmail.com | Linkedin: <a href="https://www.linkedin.com/in/mohamed-ali-haoufa/">MohamedAliHaoufa</a>
 - 😄 Pronouns: He/Him
 
