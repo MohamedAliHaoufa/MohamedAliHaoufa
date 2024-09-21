@@ -8,8 +8,8 @@
 - 😄 Pronouns: He/Him
 
 ### 💻 What I am currently working on
--  [Smart-Car-Parking-Management-System](https://github.com/MohamedAliHaoufa/Smart-Car-Parking-Management-System) (In Progress...)
--  [RTOS-Powered-Smart-Home-Automation-System](https://github.com/MohamedAliHaoufa/RTOS-Powered-Smart-Home-Automation-System) (In Progress...)
+-  [Smart-Car-Parking-Management-System](https://github.com/MohamedAliHaoufa/Smart-Car-Parking-Management-System)
+-  [RTOS-Powered-Smart-Home-Automation-System](https://github.com/MohamedAliHaoufa/RTOS-Powered-Smart-Home-Automation-System)
 -  [Embedded System for Chronic Disease Patient Monitoring using IoT](https://github.com/MohamedAliHaoufa/Embedded-System-for-Chronic-Disease-Patient-Monitoring-using-IoT)
 -  [AUTOMATIC Wireless Mini Weather Station](https://github.com/MohamedAliHaoufa/AUTOMATIC-Wireless-Mini-Weather-Station)
 -  [Automatic Railway Gate](https://github.com/MohamedAliHaoufa/Automatic-Railway-Gate)
