@@ -8,11 +8,11 @@
 - 😄 Pronouns: He/Him
 
 ### 💻 What I am currently working on
--  [Smart-Car-Parking-Management-System](https://github.com/MohamedAliHaoufa/Smart-Car-Parking-Management-System)
+-  [Smart-Car-Parking-Management-System](https://github.com/MohamedAliHaoufa/Smart-Car-Parking-Management-System) - Finished
 -  [RTOS-Powered-Smart-Home-Automation-System](https://github.com/MohamedAliHaoufa/RTOS-Powered-Smart-Home-Automation-System)
--  [Embedded System for Chronic Disease Patient Monitoring using IoT](https://github.com/MohamedAliHaoufa/Embedded-System-for-Chronic-Disease-Patient-Monitoring-using-IoT)
--  [AUTOMATIC Wireless Mini Weather Station](https://github.com/MohamedAliHaoufa/AUTOMATIC-Wireless-Mini-Weather-Station)
--  [Automatic Railway Gate](https://github.com/MohamedAliHaoufa/Automatic-Railway-Gate)
+-  [Embedded System for Chronic Disease Patient Monitoring using IoT](https://github.com/MohamedAliHaoufa/Embedded-System-for-Chronic-Disease-Patient-Monitoring-using-IoT) - Finished
+-  [AUTOMATIC Wireless Mini Weather Station](https://github.com/MohamedAliHaoufa/AUTOMATIC-Wireless-Mini-Weather-Station) - Finished
+-  [Automatic Railway Gate](https://github.com/MohamedAliHaoufa/Automatic-Railway-Gate) - Finished
 
 ### 🔨 Languages and Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://i.imgur.com/zINUxVf.png" align="left" alt="git" height='42px'/>
